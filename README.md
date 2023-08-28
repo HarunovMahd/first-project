@@ -8,7 +8,7 @@ HEAD -- это голова.
 
 ```mermaid
 %% описание схемы
-    graph TD;
+    graph LR;
         a-->b;
         a-->c;
         b-->d;
